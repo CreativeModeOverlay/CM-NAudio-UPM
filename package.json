@@ -1,0 +1,12 @@
+{
+    "name": "com.naudio.upm",
+    "displayName": "NAudio",
+    "version": "1.10.0",
+    "unity": "2017.1",
+    "description": "Unity port and package wrapper for https://github.com/naudio/NAudio",
+    "dependencies": {},
+	"author": {
+		"name": "NAudio"
+	},
+	"type": "library"
+}
